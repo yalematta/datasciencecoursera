@@ -1,9 +1,0 @@
-C:\Users\Layale Matta\Documents\GitHub\exploring-unity\first-attempt\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
-C:\Users\Layale Matta\Documents\GitHub\exploring-unity\first-attempt\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
-C:\Users\Layale Matta\Documents\GitHub\exploring-unity\first-attempt\Temp\UnityVS_bin\Debug\UnityEditor.dll
-C:\Users\Layale Matta\Documents\GitHub\exploring-unity\first-attempt\Temp\UnityVS_bin\Debug\UnityEngine.dll
-C:\Users\Layale Matta\Documents\GitHub\exploring-unity\first-attempt\Temp\UnityVS_bin\Debug\UnityEngine.xml
-C:\Users\Layale Matta\Documents\GitHub\exploring-unity\first-attempt\Temp\UnityVS_bin\Debug\UnityEditor.xml
-C:\Users\Layale Matta\Documents\GitHub\exploring-unity\first-attempt\obj\Debug\UnityVS.first-attempt.CSharp.csprojResolveAssemblyReference.cache
-C:\Users\Layale Matta\Documents\GitHub\exploring-unity\first-attempt\obj\Debug\Assembly-CSharp.dll
-C:\Users\Layale Matta\Documents\GitHub\exploring-unity\first-attempt\obj\Debug\Assembly-CSharp.pdb
