@@ -1,4 +1,4 @@
-exploring-unity
+learning-python
 ===============
 
-Developing a 2D &amp; 3D Game with Unity for Windows Jump Start
+Introduction to Python using every MOOC I found 
